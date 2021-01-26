@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Minta\Minta\bin\Debug\Minta.exe.config
+C:\Users\Soma\Documents\C#2\Minta\Minta\bin\Debug\Minta.exe
+C:\Users\Soma\Documents\C#2\Minta\Minta\bin\Debug\Minta.pdb
+C:\Users\Soma\Documents\C#2\Minta\Minta\obj\Debug\Minta.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Minta\Minta\obj\Debug\Minta.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Minta\Minta\obj\Debug\Minta.exe
+C:\Users\Soma\Documents\C#2\Minta\Minta\obj\Debug\Minta.pdb
